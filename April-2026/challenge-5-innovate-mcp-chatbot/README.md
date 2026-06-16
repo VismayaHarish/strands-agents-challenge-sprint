@@ -1,7 +1,7 @@
-# Challenge 5 (Innovate): Build Your Own MCP-Powered Agent 🚀
+# Challenge 5 (Innovate): Build Your Own MCP-Powered Agent 
 
 ## Goal
-Build an **innovative agent from scratch** that connects to any MCP server and solves a real problem. The most creative and useful agent gets a **special shoutout!** 🏆
+Build an **innovative agent from scratch** that connects to any MCP server and solves a real problem. The most creative and useful agent gets a **special shoutout!** 
 
 ## Rules
 - Must use **Strands Agents SDK**
@@ -51,22 +51,22 @@ Browse more at: [github.com/modelcontextprotocol/servers](https://github.com/mod
 
 ## Ideas to Get You Started
 
-- 🔍 **AWS Docs Expert** — Search and summarize any AWS service documentation
-- 💰 **AWS Cost Advisor** — Help estimate costs for AWS architectures
-- 🏗️ **CDK Helper** — Generate CDK code following best practices
-- 📚 **Study Buddy** — Connect to a docs MCP + memory to remember what you've studied
-- 🤖 **Multi-MCP Agent** — Connect to 2+ MCP servers at once for a super-agent
-- 🔧 **DevOps Assistant** — Combine AWS docs + CDK for infrastructure help
+-  **AWS Docs Expert** — Search and summarize any AWS service documentation
+-  **AWS Cost Advisor** — Help estimate costs for AWS architectures
+-  **CDK Helper** — Generate CDK code following best practices
+-  **Study Buddy** — Connect to a docs MCP + memory to remember what you've studied
+-  **Multi-MCP Agent** — Connect to 2+ MCP servers at once for a super-agent
+-  **DevOps Assistant** — Combine AWS docs + CDK for infrastructure help
 
 ## Judging Criteria
 
 | Criteria | Weight |
 |----------|--------|
-| **Creativity** — How unique is your idea? | ⭐⭐⭐ |
-| **Working Demo** — Does it actually run? | ⭐⭐⭐ |
-| **MCP Usage** — How well do you use MCP tools? | ⭐⭐ |
-| **Code Quality** — Clean, readable, well-structured | ⭐ |
-| **Bonus** — Memory, streaming, multiple MCP servers | ⭐ |
+| **Creativity** — How unique is your idea?
+| **Working Demo** — Does it actually run?
+| **MCP Usage** — How well do you use MCP tools?
+| **Code Quality** — Clean, readable, well-structured
+| **Bonus** — Memory, streaming, multiple MCP servers
 
 ## How to Submit
 
@@ -82,4 +82,4 @@ Browse more at: [github.com/modelcontextprotocol/servers](https://github.com/mod
 - [AWS MCP Servers](https://github.com/awslabs/mcp)
 - [Strands SDK](https://strandsagents.com)
 
-**Build something that makes us go "whoa!" 🚀**
+**Build something that makes us go "whoa!" **
