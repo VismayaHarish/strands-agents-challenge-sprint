@@ -1,4 +1,4 @@
-# Challenge 4: The Full Agent — Tools + Memory + Streaming (Bedrock) ⭐⭐⭐
+# Challenge 4: The Full Agent — Tools + Memory + Streaming (Bedrock)
 
 ## Goal
 Build a full-featured agent that combines everything: tools + memory + streaming.
@@ -7,11 +7,11 @@ Build a full-featured agent that combines everything: tools + memory + streaming
 
 ## What You'll Build
 An interactive agent that can:
-- 🧮 Do math (calculator)
-- 🌤️ Check real weather (custom tool)
-- 🎂 Calculate age (custom tool)
-- 🧠 Remember your preferences (mem0_memory)
-- ⚡ Stream responses in real time (callback handler)
+- Do math (calculator)
+- Check real weather (custom tool)
+- Calculate age (custom tool)
+- Remember your preferences (mem0_memory)
+- Stream responses in real time (callback handler)
 
 ## Instructions
 
@@ -24,15 +24,15 @@ An interactive agent that can:
 
 ```
 You: Remember my name is Priya and I'm from Madurai
-Agent: ✅ Stored!
+Agent:  Stored!
 
 You: What's the weather in my city?
-Agent: 🔧 Using tool: weather
+Agent:  Using tool: weather
 Weather in Madurai: Sunny, 38°C...
 
 You: How old is someone born on 2002-03-15? Also what's 365 * 24?
-Agent: 🔧 Using tool: age_calculator
-🔧 Using tool: calculator
+Agent:  Using tool: age_calculator
+ Using tool: calculator
 24 years old. 365 × 24 = 8,760 hours in a year!
 
 You: What's my name?
