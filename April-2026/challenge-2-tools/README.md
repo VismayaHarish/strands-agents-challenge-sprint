@@ -1,4 +1,4 @@
-# Challenge 2: Adding Tools to Your Agent (Bedrock — Nova Pro) ⭐⭐
+# Challenge 2: Adding Tools to Your Agent (Bedrock — Nova Pro)
 
 ## Goal
 Give your agent superpowers by adding a calculator and a custom weather tool using Amazon Nova Pro.
@@ -24,9 +24,9 @@ Give your agent superpowers by adding a calculator and a custom weather tool usi
 ## Expected Output
 
 ```
-🧮 Math: 42 * 17 = 714
-🌤️ Weather: Weather in Chennai: Partly cloudy, 33°C...
-🎂 Age: Age: 25 years old
+Math: 42 * 17 = 714
+Weather: Weather in Chennai: Partly cloudy, 33°C...
+Age: Age: 25 years old
 ```
 
 ## Hints
