@@ -1,4 +1,4 @@
-# Challenge 1: Your First AI Agent (Ollama — Local) ⭐
+# Challenge 1: Your First AI Agent (Ollama — Local) 
 
 ## Goal
 Create a simple AI agent using Strands SDK + Ollama that runs **100% locally** on your machine. No cloud, no API key.
@@ -20,7 +20,7 @@ Create a simple AI agent using Strands SDK + Ollama that runs **100% locally** o
 ## Expected Output
 
 ```
-🤖 Agent: Python is a high-level, interpreted programming language...
+Agent: Python is a high-level, interpreted programming language...
 ```
 
 ## Hints
