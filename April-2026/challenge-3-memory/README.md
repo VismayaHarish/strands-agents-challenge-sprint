@@ -1,4 +1,4 @@
-# Challenge 3: Agent with Persistent Memory (Bedrock — Nova Pro) ⭐⭐
+# Challenge 3: Agent with Persistent Memory (Bedrock — Nova Pro) 
 
 ## Goal
 Give your agent persistent memory using FAISS so it remembers facts across messages.
@@ -24,7 +24,7 @@ Give your agent persistent memory using FAISS so it remembers facts across messa
 
 ```
 You: Remember that my name is Ravi and I love biryani
-Agent: ✅ I'll remember that!
+Agent:  I'll remember that!
 
 You: What's my name and what food do I like?
 Agent: Your name is Ravi and you love biryani!
@@ -34,8 +34,8 @@ Agent: Your name is Ravi and you love biryani!
 
 | Type | How It Works | Persists After Quit? |
 |------|-------------|---------------------|
-| **Conversation History** | Strands sends all previous messages to the model each time | ❌ No |
-| **mem0_memory (FAISS)** | Stores facts as vectors on disk | ✅ Yes |
+| **Conversation History** | Strands sends all previous messages to the model each time | No |
+| **mem0_memory (FAISS)** | Stores facts as vectors on disk | Yes |
 
 ## Hints
 
